@@ -1,6 +1,6 @@
 {
     "name": "DAR Legend Card",
     "description": "A simple Lengends Card for minting NFTs on Immutable zkEVM",
-    "image": "https://service-api.dalarnia.com/blockchain/api/static/13371/0xaafeb692e334aa285fc3c98a965a427f166beabc/image_dal_cosmetic_logo.png",
+    "image": "https://uddina.github.io/sample-project-metadata/image_dal_cosmetic_logo.png",
     "external_link": "https://dalarnia.com" 
 }
